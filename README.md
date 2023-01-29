@@ -5,8 +5,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=revers3ntropy&theme=onedark&no-frame=true" alt="revers3ntropy" />
   </a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Ruby on Rails**
-
 - 👨‍💻 Some of my projects are available at [https://revers3ntropy.com](https://revers3ntropy.com)
 
 - 📫 How to reach me **josephcoppin@gmail.com**
